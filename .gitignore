@@ -1,0 +1,87 @@
+#------------------
+# Compiled sources
+#------------------
+*.bash
+*.py
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.sh
+#------------
+# Packages
+#------------
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.yld
+*.qy
+*.notmp
+#-------------------
+# Logs and database
+#-------------------
+*.log
+*.sql
+*.sqlite
+*.PLP
+*.sgp
+*.bio
+*.list
+*.PLT
+#-------------------
+# OS generated files
+#-------------------
+.Trashes
+ehthumbs.db
+Thumbs.db
+#-------------------
+# TUV model
+#-------------------
+*.o
+*.f
+*.temp
+*.ave
+*.100
+*.grid
+*.abs
+*.all
+*.flx
+*.converted
+*.old
+#-------------------
+# Docs
+#-------------------
+*.docx
+*.doc
+*.pdf
+#-------------------
+# VScode
+#-------------------
+.git/*
+.vscode/*
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+#-------------------
+#  Directories
+#-------------------
+dask-worker-space
+dask-worker-space/*
+!dask-worker-space/*
+__pycache__/*
+!__pycache__/*
+__pycache__
+.ipynb_checkpoints/*
+!.ipynb_checkpoints/*
+.ipynb_checkpoints
+dask-worker-space
