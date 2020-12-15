@@ -64,6 +64,7 @@ Thumbs.db
 #-------------------
 # VScode
 #-------------------
+.gitignore
 .git/*
 .vscode/*
 .vscode
